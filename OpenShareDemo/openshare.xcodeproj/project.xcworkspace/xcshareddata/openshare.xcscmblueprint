@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FDCF8D3D454230440063CBE3E5EF4A3940FF738A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EBCE5C9FA1F4681FCF67B24B425A2052E8CCD811" : 0,
+    "FDCF8D3D454230440063CBE3E5EF4A3940FF738A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "35851695-D247-4E37-8B79-D6D96420BC5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EBCE5C9FA1F4681FCF67B24B425A2052E8CCD811" : "",
+    "FDCF8D3D454230440063CBE3E5EF4A3940FF738A" : "openshare\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "openshare",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenShareDemo\/openshare.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dulingkang\/shawndu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EBCE5C9FA1F4681FCF67B24B425A2052E8CCD811"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dulingkang\/openshare.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDCF8D3D454230440063CBE3E5EF4A3940FF738A"
+    }
+  ]
+}
