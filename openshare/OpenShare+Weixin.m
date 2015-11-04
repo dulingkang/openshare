@@ -59,6 +59,7 @@ static NSString *schema=@"Weixin";
             dic[@"fileData"]= [self dataWithImage:msg.image];
             dic[@"thumbData"]=msg.thumbnail ? [self dataWithImage:msg.thumbnail] : [self dataWithImage:msg.image scale:CGSizeMake(100, 100)];
             dic[@"objectType"]=@"2";
+            dic[@"title"] = msg.title;
         }else if([msg isEmpty:nil AndNotEmpty:@[@"link",@"title",@"image"]]){
             //有链接。
             dic[@"description"]=msg.desc?:msg.title;
